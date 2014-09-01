@@ -13,6 +13,12 @@
  *= require_tree .
  *= require_self
  *= require_jquery.bxslider
+ //= depend_on_asset "louise.png"
+ //= depend_on_asset "their1.png"
+ //= depend_on_asset "their2.png"
+ //= depend_on_asset "their3.png"
+ //= depend_on_asset "their4.png"
+ //= depend_on_asset "their5.png"
  */
  $dark_grey: #666;
  $light_grey: #c9c9c9;
