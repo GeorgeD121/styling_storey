@@ -111,28 +111,33 @@ html{
 				margin-left: 7%;
 				width: 88%;
 				border-top: 1px grey solid;
-				padding-top: 5px;
+				padding-top: 15px;
 			}
 			#my_storey{
 				width: 100%;
+
 				aside{
 						float: left;
 						width: 50%;
+
 					img{
-							width: 50%;
+							width: 40%;
 							height: 450px;
-					}
+							float: right;
+						}
 					h3{
 						margin-left: 10%;
 					}
 				}
+
 				p{
 						width: 44%;
 						float: left;
 						padding: 1% 5% 5% 1%;
 						text-align: left;
 						letter-spacing: 1px;
-				}
+						line-height: 5px;
+					}
 			}
 
 			#their_storey{
