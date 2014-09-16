@@ -130,18 +130,17 @@ html{
 
 				.profile{
 						float: left;
-						width: 35%;
+						width: 100%;
 
 					img{
-							width: 60%;
+							width: 40%;
 							height: 350px;
-							float: right;
+							float: left;
 					}
 					h3{
 						margin-left: 10%;
-						float: right;
+						float: left;
 					}
-				}
 
 				p{
 						width: 44%;
@@ -152,6 +151,7 @@ html{
 						line-height: 20px;
 				}
 			}
+		}
 
 			#their_storey{
 				width: 100%;
